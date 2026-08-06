@@ -18,7 +18,7 @@ require (
 	github.com/minio/minio-go/v7 v7.0.97
 	github.com/minio/mux v1.8.2
 	github.com/rjeczalik/notify v0.9.3
-	github.com/tinylib/msgp v1.5.0
+	github.com/tinylib/msgp v1.6.4
 	github.com/zeebo/xxh3 v1.0.2
 	go.etcd.io/etcd/client/v3 v3.6.6
 	go.yaml.in/yaml/v3 v3.0.4
