@@ -1,13 +1,13 @@
 module github.com/minio/pkg/v3
 
-go 1.24.0
+go 1.25.0
 
 toolchain go1.25.4
 
 require (
 	github.com/cheggaaa/pb v1.0.29
 	github.com/coreos/go-oidc/v3 v3.17.0
-	github.com/fatih/color v1.18.0
+	github.com/fatih/color v1.19.0
 	github.com/fatih/structs v1.1.0
 	github.com/go-ldap/ldap/v3 v3.4.12
 	github.com/go-openapi/swag/conv v0.24.0
@@ -24,7 +24,7 @@ require (
 	go.yaml.in/yaml/v3 v3.0.4
 	golang.org/x/crypto v0.45.0
 	golang.org/x/oauth2 v0.33.0
-	golang.org/x/sys v0.38.0
+	golang.org/x/sys v0.42.0
 )
 
 require (
