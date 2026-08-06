@@ -14,7 +14,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/lestrrat-go/jwx/v2 v2.1.6
 	github.com/mattn/go-colorable v0.1.14
-	github.com/mattn/go-isatty v0.0.20
+	github.com/mattn/go-isatty v0.0.24
 	github.com/minio/minio-go/v7 v7.0.97
 	github.com/minio/mux v1.8.2
 	github.com/rjeczalik/notify v0.9.3
