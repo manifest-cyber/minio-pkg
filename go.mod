@@ -1,8 +1,6 @@
 module github.com/minio/pkg/v3
 
-go 1.24.0
-
-toolchain go1.25.4
+go 1.26
 
 require (
 	github.com/cheggaaa/pb v1.0.29
@@ -16,7 +14,7 @@ require (
 	github.com/mattn/go-colorable v0.1.14
 	github.com/mattn/go-isatty v0.0.20
 	github.com/minio/minio-go/v7 v7.0.97
-	github.com/minio/mux v1.8.2
+	github.com/minio/mux v1.10.1
 	github.com/rjeczalik/notify v0.9.3
 	github.com/tinylib/msgp v1.5.0
 	github.com/zeebo/xxh3 v1.0.2
