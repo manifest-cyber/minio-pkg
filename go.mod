@@ -1,8 +1,6 @@
 module github.com/minio/pkg/v3
 
-go 1.24.0
-
-toolchain go1.25.4
+go 1.26.0
 
 require (
 	github.com/cheggaaa/pb v1.0.29
@@ -23,7 +21,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.6.6
 	go.yaml.in/yaml/v3 v3.0.4
 	golang.org/x/crypto v0.45.0
-	golang.org/x/oauth2 v0.33.0
+	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sys v0.38.0
 )
 
