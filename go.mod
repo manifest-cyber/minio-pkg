@@ -20,7 +20,7 @@ require (
 	github.com/rjeczalik/notify v0.9.3
 	github.com/tinylib/msgp v1.5.0
 	github.com/zeebo/xxh3 v1.0.2
-	go.etcd.io/etcd/client/v3 v3.6.6
+	go.etcd.io/etcd/client/v3 v3.6.16
 	go.yaml.in/yaml/v3 v3.0.4
 	golang.org/x/crypto v0.45.0
 	golang.org/x/oauth2 v0.33.0
